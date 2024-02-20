@@ -1,4 +1,4 @@
-### <div align="center">I'm Usama Ahmed, currently working as an Associate Software Engineer at Apptycoons</div>  
+### <div align="center">I'm Usama Ahmed, currently working as a Software Engineer at Apptycoons</div>  
   
 
 <br/>  
